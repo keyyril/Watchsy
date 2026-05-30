@@ -24,6 +24,7 @@ def render(model, index, metadata):
         with cols[i % 2]:
             if st.button(example, key=f"example_{i}"):
                 st.session_state.recommend_query = example
+                st.rerun()
 
     st.divider()
 
