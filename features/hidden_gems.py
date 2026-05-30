@@ -36,6 +36,7 @@ def render(model, index, metadata):
         with cols[i % 2]:
             if st.button(example, key=f"gem_example_{i}"):
                 st.session_state.gems_query = example
+                st.rerun()
 
     st.divider()
 
