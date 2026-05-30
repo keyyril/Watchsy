@@ -4,7 +4,7 @@
 
 Watchsy is a full-stack RAG (Retrieval-Augmented Generation) application that lets users find movies through natural language — not keyword search. Built with TMDB, Groq LLaMA, FAISS, and Streamlit.
 
-**Live app:** [watchsy.streamlit.app]([https://your-watchsy-url.streamlit.app](https://watchsy-secondtimehehe.streamlit.app/))
+**Live app:** [watchsy.streamlit.app](https://watchsy-secondtimehehe.streamlit.app/)
 
 ---
 
